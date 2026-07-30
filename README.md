@@ -18,29 +18,45 @@ A collection of Java programs created while learning the fundamentals of Java pr
 ## 📂 Repository Structure
 
 ```java-programming-practice/
+## 📂 Repository Structure
+
+```
+
+java-programming-practice/
 │
 ├── Basics/
-│   ├── HelloWorld.java
-│   ├── IfElse.java
-│   └── SwitchCase.java
+│
+├── InputOutput/
+│
+├── Operators/
+│
+├── ConditionalStatements/
 │
 ├── Loops/
-│   ├── Even.java
-│   └── EvenCount.java
 │
-├── Arrays/
-│   ├── ArrayInsertion.java
-│   ├── ArrayDeletion.java
-│   ├── MovingZeroes.java
-│   └── StockProfit.java
+├── Patterns/
 │
 ├── Functions/
 │
-├── Patterns/
-│   ├── LowerCornerStar.java
-│   ├── Pyramid.java
-│   ├── StarBox.java
-│   └── UpperCornerStar.java
+├── Arrays/
+│
+├── Strings/
+│
+├── Searching/
+│
+├── Sorting/
+│
+├── Recursion/
+│
+├── BitManipulation/
+│
+├── Matrix/
+│
+├── NumberTheory/
+│
+├── Collections/
+│
+├── FileHandling/
 │
 ├── OOP/
 │   ├── ClassesAndObjects/
@@ -51,11 +67,59 @@ A collection of Java programs created while learning the fundamentals of Java pr
 │   ├── Abstraction/
 │   ├── Interfaces/
 │   ├── Packages/
-│   └── ExceptionHandling/
+│   ├── ExceptionHandling/
+│   ├── Generics/
+│   ├── Enums/
+│   └── Records/
+│
+├── Multithreading/
+│
+├── Java8Features/
+│   ├── LambdaExpressions/
+│   ├── Streams/
+│   ├── Optional/
+│   └── FunctionalInterfaces/
+│
+├── DataStructures/
+│   ├── ArrayList/
+│   ├── LinkedList/
+│   ├── Stack/
+│   ├── Queue/
+│   ├── Deque/
+│   ├── HashMap/
+│   ├── HashSet/
+│   ├── TreeMap/
+│   ├── TreeSet/
+│   ├── Heap/
+│   ├── Trie/
+│   └── DisjointSet/
+│
+├── Algorithms/
+│   ├── Greedy/
+│   ├── DynamicProgramming/
+│   ├── Graph/
+│   ├── Backtracking/
+│   ├── SlidingWindow/
+│   ├── TwoPointers/
+│   ├── BinarySearch/
+│   ├── BFS/
+│   ├── DFS/
+│   ├── TopologicalSort/
+│   ├── ShortestPath/
+│   └── MST/
+│
+├── LeetCode/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
+├── CollegeAssignments/
 │
 ├── MiniProjects/
-│   ├── StudentGrade.java
-│   └── BankSystem.java
+│
+├── PracticeTests/
+│
+├── Utilities/
 │
 └── README.md
 ```
