@@ -20,7 +20,7 @@ A collection of Java programs created while learning the fundamentals of Java pr
 ```java-programming-practice/
 ## 📂 Repository Structure
 
-```
+``` text
 
 java-programming-practice/
 │
