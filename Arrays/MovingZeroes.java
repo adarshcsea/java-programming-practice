@@ -1,4 +1,4 @@
-public class movingzeroes_leetcode {
+public class MovingZeroes {
     public static void main(String[]args){
         int[] arr = {0, 1, 0, 2, 0, 3};
         int j = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class even {
+public class Even {
     public static void main(String[]args){
         Scanner scan = new Scanner(System.in);
         int startrange, endingrange;

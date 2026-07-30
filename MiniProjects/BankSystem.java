@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class banksystem{
+public class BankSystem{
     public static void main(String[]args){
         Scanner scan = new Scanner(System.in);
         double balance, deposit, withdraw;

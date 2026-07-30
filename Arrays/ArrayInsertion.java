@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class arrayinsertion {
+public class ArrayInsertion {
     public static void main(String[] args){
         int[] a = {10, 20, 30, 40, 50};
         int m = a.length;
@@ -31,6 +31,6 @@ public class arrayinsertion {
         for(int i =0; i<n; i++){
             System.out.println(newarr[i]);
         }
-
+        scan.close();
     }
 }

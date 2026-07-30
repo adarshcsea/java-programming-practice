@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class arraydeletion {
+public class ArrayDeletion {
     public static void main(String[] args){
         int[] arr = {10, 20, 30, 40, 50};
         int n = arr.length;
@@ -26,5 +26,6 @@ public class arraydeletion {
         for(int i = 0; i<m; i++){
         System.out.print(newarr[i] + "  ");
         }
+        scan.close();
     }
 }

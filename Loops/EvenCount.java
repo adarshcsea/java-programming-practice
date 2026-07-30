@@ -1,6 +1,6 @@
 
 
-public class even_count {
+public class EvenCount {
     public static void main(String [] args){
         int [] a = {10, 11, 12, 13, 14, 15};
         System.out.print("The even numbers present in the array : ");
