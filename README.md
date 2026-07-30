@@ -42,6 +42,10 @@ java-programming-practice/
 ├── Functions/
 │
 ├── Patterns/
+│   ├── LowerCornerStar.java
+│   ├── Pyramid.java
+│   ├── StarBox.java
+│   └── UpperCornerStar.java
 │
 └── README.md
 ```
