@@ -17,8 +17,7 @@ A collection of Java programs created while learning the fundamentals of Java pr
 
 ## 📂 Repository Structure
 
-```
-java-programming-practice/
+```java-programming-practice/
 │
 ├── Basics/
 │   ├── HelloWorld.java
@@ -35,10 +34,6 @@ java-programming-practice/
 │   ├── MovingZeroes.java
 │   └── StockProfit.java
 │
-├── MiniProjects/
-│   ├── StudentGrade.java
-│   └── BankSystem.java
-│
 ├── Functions/
 │
 ├── Patterns/
@@ -46,6 +41,21 @@ java-programming-practice/
 │   ├── Pyramid.java
 │   ├── StarBox.java
 │   └── UpperCornerStar.java
+│
+├── OOP/
+│   ├── ClassesAndObjects/
+│   ├── Constructors/
+│   ├── Encapsulation/
+│   ├── Inheritance/
+│   ├── Polymorphism/
+│   ├── Abstraction/
+│   ├── Interfaces/
+│   ├── Packages/
+│   └── ExceptionHandling/
+│
+├── MiniProjects/
+│   ├── StudentGrade.java
+│   └── BankSystem.java
 │
 └── README.md
 ```
