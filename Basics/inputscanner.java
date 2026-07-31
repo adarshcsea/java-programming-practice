@@ -8,6 +8,9 @@ public class inputscanner {
         System.out.println("Enter a character :");
         char j = scan.next().charAt(0);
         System.out.println("The character entered :" + j);
+         System.out.println("Enter a decimal number :");
+        double k = scan.nextDouble();
+        System.out.println("The number entered :" + k);
         scan.close();
     }
     
