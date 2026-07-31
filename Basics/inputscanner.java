@@ -10,7 +10,10 @@ public class inputscanner {
         System.out.println("The character entered :" + j);
          System.out.println("Enter a decimal number :");
         double k = scan.nextDouble();
-        System.out.println("The number entered :" + k);
+        System.out.println("The decimal number entered :" + k);
+        System.out.println("Enter a word :");
+        String l = scan.next();
+        System.out.println("The word entered :" + l);
         scan.close();
     }
     
