@@ -8,12 +8,15 @@ public class inputscanner {
         System.out.println("Enter a character :");
         char j = scan.next().charAt(0);
         System.out.println("The character entered :" + j);
-         System.out.println("Enter a decimal number :");
+        System.out.println("Enter a decimal number :");
         double k = scan.nextDouble();
         System.out.println("The decimal number entered :" + k);
         System.out.println("Enter a word :");
         String l = scan.next();
         System.out.println("The word entered :" + l);
+        System.out.println("Enter a sentence in a line :");
+        String m = scan.nextLine();
+        System.out.println("The sentence entered :" + m);
         scan.close();
     }
     
