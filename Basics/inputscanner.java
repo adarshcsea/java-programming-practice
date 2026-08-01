@@ -13,8 +13,9 @@ public class inputscanner {
         System.out.println("The decimal number entered :" + k);
         System.out.println("Enter a word :");
         String l = scan.next();
+        scan.nextLine();
         System.out.println("The word entered :" + l);
-        System.out.println("Enter a sentence in a line :");
+        System.out.print("Enter a sentence in a line :");
         String m = scan.nextLine();
         System.out.println("The sentence entered :" + m);
         scan.close();
